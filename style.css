@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  justify-content: space-between;
+  color: limegreen;
+  background-size: cover;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-image: url('./jump.gif');
+  padding: 0;
+  margin: 0;
+  background-attachment: scroll;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+button {
+  background: darkgray;
+  cursor: pointer;
+}
+.one {
+  height: 350px;
+}
