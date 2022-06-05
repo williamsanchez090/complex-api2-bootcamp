@@ -1,22 +1,6 @@
 # 📊 Project: Complex API 2
+![image](https://user-images.githubusercontent.com/101963767/172075653-3dc8c98c-24f0-4925-b0da-b5a8e3fa0d86.png)
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Optimization:Make sure all gifs were strictly of the charecters not just the show Rick and Morty.
